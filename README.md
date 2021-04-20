@@ -1,6 +1,6 @@
 ![Jaagrav Seal's-cover](./cover.png)
 
-## 🧔 About Me
+## 👩 About Me
 
 - 🔭 I’m currently pursuing Software Engineering
 
